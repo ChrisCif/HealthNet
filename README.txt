@@ -1,61 +1,12 @@
-HealthNet by Team 1 - ForceX
+HealthNet by ForceX
 
-INSTALLATION
+Authors:
+Bryan Quinn - Team Coordinator
+Andrew Fountain - Test Coordinator
+Chris Cifolelli - Development Coordinator
+Chris Cassidy - Requirements Coordinator
+Nahjee Sowah - QA Coordinator
 
-To get the environment setup, your machine must include the following:
+HealthNet enables Hospitals in the U.S. to manage and monitor employees and patients. HealthNet allows for simple and efficient patient enrollment in addition to optimizing the hospital’s logistic operations.
 
--python 3
--django 1.9
-
-To determine if you have django 1.9, run the command in cmd:
-
-$ python -m django version
-
-If a number appears that is 1.9.1,
-then you're all set
-
-If not, run this command:
-
-$ python -m pip install django==1.9
-
-
-RUNNING THE SERVER
-
-To get the server running, download the code and ex\tract it
-
-In cmd, navigate to the project. There should be a file called
-manage.py in the folder.
-
-Then start the server by running the command in cmd:
-
-$ python manage.py runserver 8000
-
-The server should now be running on 127.0.0.1:8000
-This can be typed into a browser to access the website
-
-
-USING THE SERVER
-
-These are the items already set up in the system
-The admin login is
-Login: admin@health.net
-Password: abc123456
-
-The doctor login is
-Login: DoctorOz@health.net
-Password: abc123456
-
-The nurse login is
-Login: NurseJoy@health.net
-Password: abc123456
-
-The patient login is
-Login: PatientOne@health.net
-Password: abc123456
-
-The hospitals are
-RIT
-
-The Prescriptions are
-Advil 200mg
-Tums 200mg
+This is a django web aplication written for the Rochester Institute of Technology Introduction to Software Engineering class. The group spent the majority of the fall semester of 2016 to complete the project. Development began with requirements documentation in September of 2016 and ended with a "post-mortem" reflection in December of 2016. In that time, two releases were made as well as a beta release for Release 2. Furthermore, beta testing and cross-team testing were done to further assure quality control.
