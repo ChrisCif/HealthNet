@@ -1,0 +1,9 @@
+2016-11-13 21:30:22		Patient	username:	sj@email.com                                                		Action: Patient Registered
+2016-11-13 21:51:11		Patient	username:	sj@email.com                                                		Action: Profile information updated
+2016-11-13 21:55:15		Patient	username:	sj@email.com                                                		Action: Profile information updated
+2016-11-13 21:55:30		Patient	username:	sj@email.com                                                		Action: Profile information updated
+2016-11-30 10:13:52		Patient	username:	sj@email.com                                                		Action: Message sent to hc@email.com
+2016-11-30 10:14:03		Patient	username:	sj@email.com                                                		Action: Message sent to jd@email.com
+2016-11-30 10:45:55		Patient	username:	sj@email.com                                                		Action: Message sent to tc@email.com
+2016-12-01 20:35:53		Patient	username:	sj@email.com                                                		Action: Message sent to jd@email.com
+2016-12-01 21:10:26		Patient	username:	sj@email.com                                                		Action: Message sent to jd@email.com

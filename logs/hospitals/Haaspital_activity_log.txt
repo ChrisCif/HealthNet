@@ -1,0 +1,6 @@
+2016-11-13 23:05:29		Patient	username:	bb@email.com                                                		Action: Patient Registered
+2016-11-13 23:09:16		Patient	username:	boobee@email.com                                            		Action: Patient Registered
+2016-12-01 19:58:55		Patient	username:	jb@email.com                                                		Action: Patient Registered
+2016-12-01 20:00:04		Patient	username:	jb@email.com                                                		Action: Message sent to el@email.com
+2016-12-03 17:29:35		Patient	username:	ea@email.com                                                		Action: Patient Registered
+2016-12-03 17:38:27		Patient	username:	ea@email.com                                                		Action: Message sent to kh@email.com

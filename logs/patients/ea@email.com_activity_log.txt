@@ -1,0 +1,2 @@
+2016-12-03 17:29:35		Patient	username:	ea@email.com                                                		Action: Patient Registered
+2016-12-03 17:38:27		Patient	username:	ea@email.com                                                		Action: Message sent to kh@email.com

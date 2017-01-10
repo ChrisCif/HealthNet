@@ -1,0 +1,2 @@
+2016-12-04 19:26:25		Patient	username:	joob@email.com                                              		Action: Patient Registered
+2016-12-04 20:25:20		Patient	username:	joob@email.com                                              		Action: Profile information updated

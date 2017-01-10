@@ -1,0 +1,37 @@
+2016-11-02 03:27:11		Doctor	username:	tp@email.com                                                 		Action: Patient 13(Victoreh Supreme) admitted into hospital 1(Healy McHospital) For the following reason: "please work"
+2016-11-02 13:13:21		Doctor	username:	tp@email.com                                                 		Action: Doctor Powers is trying to admit a patient
+2016-11-02 13:13:21		Doctor	username:	tp@email.com                                                 		Action: Patient 12(Andrew Fountain) admitted into hospital 1(Healy McHospital) For the following reason: "please work"
+2016-11-02 13:16:08		Doctor	username:	tp@email.com                                                 		Action: Doctor is trying to admit a patient
+2016-11-02 13:16:13		Doctor	username:	tp@email.com                                                 		Action: Doctor is trying to admit a patient
+2016-11-02 13:16:13		Doctor	username:	tp@email.com                                                 		Action: Patient 12(Andrew Fountain) admitted into hospital 1(Healy McHospital) For the following reason: "tfdfouiuh"
+2016-11-02 13:19:05		Doctor	username:	tp@email.com                                                 		Action: Patient 16(Jayson Duck) admitted into hospital 1(Healy McHospital) For the following reason: "quackity quack quack"
+2016-11-02 13:21:08		Doctor	username:	tp@email.com                                                 		Action: Patient 13(Victoreh Supreme) admitted into hospital 1(Healy McHospital) For the following reason: "for freedom"
+2016-11-02 13:23:02		Doctor	username:	tp@email.com                                                 		Action: Patient 14(Balls McBallsface) admitted into hospital 1(Healy McHospital) For the following reason: "B A L L S"
+2016-11-04 13:24:13		Doctor	username:	tp@email.com                                                 		Action: Patient 6(Jayso Duck) admitted into hospital 1(Winner Central) For the following reason: "because reason"
+2016-11-04 13:47:43		Doctor	username:	tp@email.com                                                 		Action: Patient 2(teste tester) admitted into hospital 1(Winner Central) For the following reason: "please work"
+2016-11-04 13:53:14		Doctor	username:	tp@email.com                                                 		Action: Patient 7(Teflanto Cheeseball) admitted into hospital 1(Winner Central) For the following reason: "adddddd"
+2016-11-13 22:03:13		Doctor	username:	tp@email.com                                                 		Action: Patient 11(Spice Jame) admitted into hospital 1(Winner Central) For the following reason: "njhop"
+2016-11-16 13:07:37		Doctor	username:	tp@email.com                                                 		Action: Test created for sb@email.com by Dr. Powers called Testing his sandess
+2016-11-16 13:09:32		Doctor	username:	tp@email.com                                                 		Action: Test created for sb@email.com by Dr. Powers called Testing his sandess
+2016-11-16 13:09:53		Doctor	username:	tp@email.com                                                 		Action: Test created for sb@email.com by Dr. Powers called Testing his sandess
+2016-11-16 13:17:48		Doctor	username:	tp@email.com                                                 		Action: Test created for tc@email.com by Dr. Powers called He dead?
+2016-11-16 13:20:08		Doctor	username:	tp@email.com                                                 		Action: Test created for tc@email.com by Dr. Powers called He dead?
+2016-11-28 13:05:00		Doctor	username:	tp@email.com                                                 		Action: Appointment created for 2016-11-29 18:00:00 with Dr. Powers  at Winner Central
+2016-11-29 22:43:32		Doctor	username:	tp@email.com                                                 		Action: Patient medical information updated
+2016-11-29 22:43:45		Doctor	username:	tp@email.com                                                 		Action: Doctor downloaded medical information file: patient_uploads/AtwoodLab_DpFHof6.docx
+2016-11-29 22:43:59		Doctor	username:	tp@email.com                                                 		Action: Patient medical information updated
+2016-11-29 22:44:10		Doctor	username:	tp@email.com                                                 		Action: Patient medical information updated
+2016-11-30 08:35:29		Doctor	username:	tp@email.com                                                 		Action: Appointment created for 2016-12-01 08:00:00 with Dr. Powers  at Winner Central
+2016-11-30 08:54:23		Doctor	username:	tp@email.com                                                 		Action: Patient medical information updated
+2016-11-30 08:55:25		Doctor	username:	tp@email.com                                                 		Action: Doctor downloaded medical information file: patient_uploads/jayson.png
+2016-11-30 08:55:39		Doctor	username:	tp@email.com                                                 		Action: Patient medical information updated
+2016-11-30 08:55:42		Doctor	username:	tp@email.com                                                 		Action: Doctor downloaded medical information file: patient_uploads/jayson_6AkIwlN.png
+2016-11-30 09:12:09		Doctor	username:	tp@email.com                                                 		Action: Message sent to hc@email.com
+2016-11-30 09:14:54		Doctor	username:	tp@email.com                                                 		Action: Message sent to hc@email.com
+2016-11-30 09:25:29		Doctor	username:	tp@email.com                                                 		Action: Message sent to tp@email.com
+2016-11-30 09:46:44		Doctor	username:	tp@email.com                                                 		Action: Message sent to hc@email.com
+2016-11-30 10:17:39		Doctor	username:	tp@email.com                                                 		Action: Message sent to hc@email.com
+2016-11-30 10:19:23		Doctor	username:	tp@email.com                                                 		Action: Message sent to tp@email.com
+2016-12-03 17:20:25		Doctor	username:	tp@email.com                                                 		Action: Message sent to hc@email.com
+2016-12-03 18:08:37		Doctor	username:	tp@email.com                                                 		Action: Patient : 7 (tc@email.com) discharged from Ass Central
+2016-12-03 18:13:15		Doctor	username:	tp@email.com                                                 		Action: Test created for jd@email.com by Dr. Powers called Do it work??

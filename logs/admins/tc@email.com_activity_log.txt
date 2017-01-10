@@ -1,0 +1,1 @@
+2016-12-03 18:08:37		Doctor	username:	tp@email.com                                                 		Action: Patient : 7 (tc@email.com) discharged from Ass Central

@@ -1,0 +1,9 @@
+2016-11-04 13:52:49		Patient	username:	tc@email.com                                                		Action: Patient Registered
+2016-11-28 13:12:33		Patient	username:	tc@email.com                                                		Action: Message sent to tc@email.com
+2016-11-28 14:36:56		Patient	username:	tc@email.com                                                		Action: Message sent to tc@email.com
+2016-11-28 14:51:31		Patient	username:	tc@email.com                                                		Action: Message sent to tc@email.com
+2016-11-28 14:51:43		Patient	username:	tc@email.com                                                		Action: Message sent to tc@email.com
+2016-11-28 14:52:02		Patient	username:	tc@email.com                                                		Action: Message sent to tc@email.com
+2016-11-28 14:52:13		Patient	username:	tc@email.com                                                		Action: Message sent to tc@email.com
+2016-11-28 15:36:16		Patient	username:	tc@email.com                                                		Action: Message sent to jd@email.com
+2016-12-03 18:08:37		Doctor	username:	tp@email.com                                                 		Action: Patient : 7 (tc@email.com) discharged from Ass Central

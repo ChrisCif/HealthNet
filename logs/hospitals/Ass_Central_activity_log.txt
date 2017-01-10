@@ -1,0 +1,5 @@
+2016-12-03 17:37:19		Patient	username:	kh@email.com                                                		Action: Patient Registered
+2016-12-03 17:37:51		Patient	username:	kh@email.com                                                		Action: Message sent to ea@email.com
+2016-12-03 17:40:56		Patient	username:	kh@email.com                                                		Action: Message sent to ea@email.com
+2016-12-03 18:08:37		Doctor	username:	tp@email.com                                                 		Action: Patient : 7 (tc@email.com) discharged from Ass Central
+2016-12-04 20:33:16		Patient	username:	theend@email.com                                            		Action: Patient Registered

@@ -1,0 +1,5 @@
+2016-11-04 13:23:44		Patient	username:	jd@email.com                                                		Action: Patient Registered
+2016-11-25 18:14:03		Patient	username:	jd@email.com                                                		Action: Profile information updated
+2016-11-25 18:14:11		Patient	username:	jd@email.com                                                		Action: Profile information updated
+2016-11-25 18:16:15		Patient	username:	jd@email.com                                                		Action: Appointment created for 2016-11-25 18:07:00 with Dr. Powers  at Winner Central
+2016-12-01 20:34:15		Patient	username:	jd@email.com                                                		Action: Message sent to sj@email.com

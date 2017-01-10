@@ -1,0 +1,23 @@
+2016-11-02 02:59:07		Nurse	username:	hc@email.com                                                  		Action: Patient 12 admitted into hospital 1
+2016-11-02 03:01:07		Nurse	username:	hc@email.com                                                  		Action: Patient 12 admitted into hospital 1
+2016-11-02 03:07:02		Nurse	username:	hc@email.com                                                  		Action: Patient 13(Victoreh Supreme) admitted into hospital 1(Healy McHospital) For the following reason: for freedom
+2016-11-02 03:16:13		Nurse	username:	hc@email.com                                                  		Action: Patient 14(Balls McBallsface) admitted into hospital 1(Healy McHospital) For the following reason: buals
+2016-11-02 03:16:49		Nurse	username:	hc@email.com                                                  		Action: Patient 16(Jayson Duck) admitted into hospital 1(Healy McHospital) For the following reason: quack
+2016-11-02 03:25:10		Nurse	username:	hc@email.com                                                  		Action: Patient 12(Andrew Fountain) admitted into hospital 1(Healy McHospital) For the following reason: "can i do this????"
+2016-11-02 03:30:31		Nurse	username:	hc@email.com                                                  		Action: Patient 16(Jayson Duck) admitted into hospital 1(Healy McHospital) For the following reason: "quack quack"
+2016-11-02 03:31:47		Nurse	username:	hc@email.com                                                  		Action: Patient 12(Andrew Fountain) admitted into hospital 1(Healy McHospital) For the following reason: "??????"
+2016-11-02 13:24:13		Nurse	username:	hc@email.com                                                  		Action: Patient 12(Andrew Fountain) admitted into hospital 1(Healy McHospital) For the following reason: "something something"
+2016-11-04 13:25:25		Nurse	username:	hc@email.com                                                  		Action: Patient 6(Jayso Duck) admitted into hospital 1(Winner Central) For the following reason: "reasons"
+2016-11-04 13:43:01		Nurse	username:	hc@email.com                                                  		Action: Patient 6(Jayso Duck) admitted into hospital 1(Winner Central) For the following reason: "quack quack"
+2016-11-04 13:45:57		Nurse	username:	hc@email.com                                                  		Action: Patient 6(Jayso Duck) admitted into hospital 1(Winner Central) For the following reason: "i spelled jayson wrong T_T"
+2016-11-04 13:46:05		Nurse	username:	hc@email.com                                                  		Action: Nurse downloaded medical information file: patient_uploads/jaysonSillhouette.png
+2016-11-04 13:46:31		Nurse	username:	hc@email.com                                                  		Action: Patient medical information updated
+2016-11-04 13:46:36		Nurse	username:	hc@email.com                                                  		Action: Nurse downloaded medical information file: patient_uploads/kermitTheDog.png
+2016-11-30 09:11:02		Nurse	username:	hc@email.com                                                  		Action: Message sent to tp@email.com
+2016-11-30 09:13:07		Nurse	username:	hc@email.com                                                  		Action: Message sent to tp@email.com
+2016-11-30 09:15:54		Nurse	username:	hc@email.com                                                  		Action: Message sent to tp@email.com
+2016-11-30 10:12:32		Nurse	username:	hc@email.com                                                  		Action: Message sent to hc@email.com
+2016-11-30 10:13:13		Nurse	username:	hc@email.com                                                  		Action: Message sent to hc@email.com
+2016-12-01 20:37:05		Nurse	username:	hc@email.com                                                  		Action: Message sent to tc@email.com
+2016-12-03 17:21:50		Nurse	username:	hc@email.com                                                  		Action: Message sent to hc@email.com
+2016-12-03 17:22:18		Nurse	username:	hc@email.com                                                  		Action: Message sent to hc@email.com
